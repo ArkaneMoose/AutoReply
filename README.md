@@ -1,5 +1,5 @@
 # AutoReply
 An automatic vacation responder bot for Euphoria.
 
-This bot will respond to !notify's for people that have a response active in the system.
-The bot works similar if not identical to an Out-of-office or Vacation Reply system found in most email services.
+This bot will respond to !notify's for people who have an active vacation response in the system.  
+The bot works similarly, if not identically, to an out-of-office or vacation reply system found in most email services.
